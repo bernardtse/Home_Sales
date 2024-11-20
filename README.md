@@ -15,13 +15,13 @@ This challenge uses SparkSQL to determine key metrics about home sales data. Spa
 ## 2. Repository
 
 Jupyter Notebooks
-- Home_Sales.ipynb
+- [`Home_Sales.ipynb`](Home_Sales.ipynb)
 
 ## 3. Deployment
 
 - Sign in to Google Colab or any online Jupyter Notebook services that support big-data libraries like PySpark. 
 - Make sure all required libraries are installed.
-- Upload and run the following notebook: `Home_Sales.ipynb`
+- Upload and run the following notebook: [`Home_Sales.ipynb`](Home_Sales.ipynb)
 
 
 ## 4. Resources
