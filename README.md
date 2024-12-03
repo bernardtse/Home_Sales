@@ -1,4 +1,4 @@
-# Home_Sales Challenge
+# home-sales-challenge
 Home Sales Data Analysis with SparkSQL
 
 ## Contents
